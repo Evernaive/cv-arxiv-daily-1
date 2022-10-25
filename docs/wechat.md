@@ -1,10 +1,10 @@
-> Updated on 2022.10.24
+> Updated on 2022.10.25
 
 ## SLAM
 
 - 2022-10-21, **DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**, Shipeng Zhong et.al., Paper: [http://arxiv.org/abs/2210.11978v1](http://arxiv.org/abs/2210.11978v1)
 - 2022-10-21, **Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**, Shubham Kedia et.al., Paper: [http://arxiv.org/abs/2210.11652v1](http://arxiv.org/abs/2210.11652v1)
-- 2022-10-19, **Visual SLAM: What are the Current Trends and What to Expect?**, Ali Tourani et.al., Paper: [http://arxiv.org/abs/2210.10491v1](http://arxiv.org/abs/2210.10491v1)
+- 2022-10-22, **Visual SLAM: What are the Current Trends and What to Expect?**, Ali Tourani et.al., Paper: [http://arxiv.org/abs/2210.10491v2](http://arxiv.org/abs/2210.10491v2)
 - 2022-10-18, **Split-KalmanNet: A Robust Model-Based Deep Learning Approach for SLAM**, Geon Choi et.al., Paper: [http://arxiv.org/abs/2210.09636v1](http://arxiv.org/abs/2210.09636v1)
 - 2022-10-16, **D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**, Ayman Beghdadi et.al., Paper: [http://arxiv.org/abs/2210.08647v1](http://arxiv.org/abs/2210.08647v1)
 - 2022-10-16, **Indoor Smartphone SLAM with Learned Echoic Location Features**, Wenjie Luo et.al., Paper: [http://arxiv.org/abs/2210.08493v1](http://arxiv.org/abs/2210.08493v1)
